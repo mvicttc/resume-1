@@ -1,0 +1,26 @@
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-size: 1.6em;
+    overflow-x: hidden;
+    font-family: 'Lora', serif;
+}
+
+
+.fotomain1 {
+    float: right;
+    width:280px;
+    height: 250px;
+}
+
+.fotomain2 {
+    margin-top: 15px;
+}
+
+#myCarousel {
+    width: 930px;
+}
+
+footer {
+    margin-top: 100px;
+}
