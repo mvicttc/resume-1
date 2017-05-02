@@ -1,5 +1,4 @@
 /*second html */
-
 .map-adress {
     height: 400px;
 }
@@ -10,11 +9,9 @@ iframe {
 }
 
 /*first html */
-
 .foto img {
     float: left;
-    margin-right:50px;
-   
+    margin-right: 50px;
 }
 
 .foto {
@@ -22,12 +19,9 @@ iframe {
     height: 250px;
 }
 
-
 /*third html */
-
 .flex-img {
-    display:flex;
-    
+    display: flex;
     flex-wrap: wrap;
     height: 1450px;
     width: 100%;
@@ -36,23 +30,4 @@ iframe {
 
 .workfoto {
     margin-bottom: 25px;
-    
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
